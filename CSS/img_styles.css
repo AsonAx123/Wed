@@ -1,0 +1,9 @@
+.personal-info img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+    /* เอา border-radius ออกเพื่อให้รูปภาพเป็นสี่เหลี่ยม */
+    border-radius: 0;
+}

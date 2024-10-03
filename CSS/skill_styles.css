@@ -1,0 +1,13 @@
+.skills {
+    text-align: center; /* จัดให้เนื้อหาภายใน div skills อยู่ตรงกลาง */
+}
+
+.center-list {
+    display: inline-block; /* ทำให้ ul ถูกจัดให้อยู่ตรงกลาง */
+    text-align: left; /* เพื่อให้รายการภายใน ul ยังคงจัดชิดซ้าย */
+}
+
+ul {
+    list-style-type: none; /* เอา bullet points ออก */
+    padding: 0;
+}
